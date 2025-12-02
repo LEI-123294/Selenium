@@ -1,0 +1,10 @@
+{
+  "browsers": {
+    "chrome": {
+      "driverPath": "drivers/chromedriver",
+      "binaryPath": "",
+      "arguments": ["--remote-allow-origins=*"],
+      "headless": false
+    }
+  }
+}
